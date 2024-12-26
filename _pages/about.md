@@ -41,7 +41,7 @@ Please send me an email if you want to get in touch!
   <h2> News & Announcements </h2>
 
   <p> <strong> Aug 2024 </strong> <br>
-  Started my Ph.D. at USF under the supervision of <a href="https://www.raiyan-ab.com/">Dr. Raiyan Abdul Baten!</a></p>
+  Started my Ph.D. at USF under the supervision of <a href="https://www.raiyan-ab.com/" target="">Dr. Raiyan Abdul Baten!</a></p>
 
   <p> <strong> 2021/09 </strong> <br>
   New paper updated to arXiv and submitted to ICRA 2022. Towards practical object detection for weed spraying in precision agriculture. <a href="https://arxiv.org/abs/2109.11048"> [PDF] </a> </p>
