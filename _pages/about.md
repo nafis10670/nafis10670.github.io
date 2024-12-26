@@ -37,12 +37,11 @@ I previously worked as a Lecturer at the [Bangladesh University of Business & Te
 Please send me an email if you want to get in touch!
 
 <br>
-<br>
 <div>
   <h2> News & Announcements </h2>
 
-  <p> <strong> 2021/02 </strong> <br>
-  New dataset for object detection in agriculture. Title: Lincolnbeet. <a href="https://github.com/LAR/lincolnbeet_dataset"> [DATASET PAGE] </a> </p>
+  <p> <strong> Aug 2024 </strong> <br>
+  Started my Ph.D. at USF under the supervision of <a href="https://www.raiyan-ab.com/">Dr. Raiyan Abdul Baten!</a></p>
 
   <p> <strong> 2021/09 </strong> <br>
   New paper updated to arXiv and submitted to ICRA 2022. Towards practical object detection for weed spraying in precision agriculture. <a href="https://arxiv.org/abs/2109.11048"> [PDF] </a> </p>
