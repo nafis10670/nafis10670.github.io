@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale: "en-US"
-title: "Nafis Saami Azad"
+title: "Nafis Saami Azad - SITE"
 title_separator: "-"
 name: &name "Nafis Saami Azad"
 description: &description "personal description"
