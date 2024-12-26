@@ -36,8 +36,10 @@ I previously worked as a Lecturer at the [Bangladesh University of Business & Te
 
 Please send me an email if you want to get in touch!
 
+<br>
+<br>
 <div>
-  <h2> News </h2>
+  <h2> News & Announcements </h2>
 
   <p> <strong> 2021/02 </strong> <br>
   New dataset for object detection in agriculture. Title: Lincolnbeet. <a href="https://github.com/LAR/lincolnbeet_dataset"> [DATASET PAGE] </a> </p>

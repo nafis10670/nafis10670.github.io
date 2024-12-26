@@ -21,7 +21,7 @@ repository: "nafis10670/nafis10670.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
     # Biographic information
-    avatar: "profile.png"
+    avatar: "profile_pic.jpg"
     name: "Nafis Saami Azad"
     pronouns: "he/him"
     bio: "Ph.D. student at USF and Research Assistant in Human Computer Interaction, working on Human-AI Teams"
