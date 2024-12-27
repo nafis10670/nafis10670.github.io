@@ -27,7 +27,7 @@ For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
 
-Nafis Saami Azad's Personal Website
+**Nafis Saami Azad**'s Personal Website
 ================
 
 Hi! I am a first-year Ph.D. student at the [Computational Social Science and AI Lab](https://cssai.org/) at the [University of South Florida](https://www.usf.edu/engineering/cse/). My research interests lie in the Human-Computer Interaction (HCI) domain, with a focus on Human-AI Teams.
@@ -41,35 +41,10 @@ Please send me an email if you want to get in touch!
   <h2> News & Announcements </h2>
 
   <p> <strong> Aug 2024 </strong> <br>
-  Started my Ph.D. at USF under the supervision of <a href="https://www.raiyan-ab.com/" target="">Dr. Raiyan Abdul Baten!</a></p>
+  Started my Ph.D. at USF under the supervision of <a href="https://www.raiyan-ab.com/" target="_blank">Dr. Raiyan Abdul Baten!</a></p>
 
-  <p> <strong> 2021/09 </strong> <br>
-  New paper updated to arXiv and submitted to ICRA 2022. Towards practical object detection for weed spraying in precision agriculture. <a href="https://arxiv.org/abs/2109.11048"> [PDF] </a> </p>
+  <p> <strong> Dec 2023 </strong> <br>
+  Our paper got published in the Ecological Informatics journal! <a href="https://www.sciencedirect.com/science/article/abs/pii/S1574954123003345" target="_blank">[PDF Here]</a>  </p>
 
-  <p> <strong> 2021/09 </strong> <br>
-  New dataset for anomaly detection. Title: Riseholme 2021. <a href="https://github.com/ctyeong/Riseholme-2021"> [DATASET PAGE] </a> </p>
-
-  <p> <strong> 2021/09 </strong> <br>
-  New paper updated to arXiv and submitted to ICRA 2022. Self-supervised Representation Learning for Reliable Robotic Monitoring of Fruit Anomalies. <a href="https://arxiv.org/abs/2109.10135"> [PDF] </a> <a href="https://github.com/ctyeong/Riseholme-2021"> [CODE] </a> </p>
-
-  <p> <strong> 2021/05 </strong> <br>
-  Paper accepted at UK-RAS 2022 "Robotics at Home". Title: The need for speed: How 5G communication can support AI in the field. <a href="https://www.researchgate.net/profile/Adrian-Salazar-Gomez/publication/352357727_The_need_for_speed_How_5G_communication_can_support_AI_in_the_field/links/60c506a64585157774d22d77/The-need-for-speed-How-5G-communication-can-support-AI-in-the-field.pdf"> [PDF] </a> </p>
-
-  <p> <strong> 2021/02 </strong> <br>
-  Paper accepted at Journal: IEEE Robotics and Automation Letters (RA-L). Title: Deep  Regression  versus  Detection  for  Counting  in  Robotic  Phenotyping. <a href="https://ieeexplore.ieee.org/document/9364677"> [PDF] </a> <a href="https://github.com/adrianxsalazar/Deep_Regression_vs_Detection_for_Counting_in_Robotic_Phenotyping"> [CODE] </a> </p>
-
-  <p> <strong> 2020/09 </strong> <br>
-  I will attend to the  <a href="http://gpss.cc/gpss20/"> University of Sheffield summer school in Gaussian Processes and Uncertainty Quantification </a> </p>
-
-  <p> <strong> 2020/08 </strong> <br>
-  I am excited to announce that I will attend to the  <a href="https://www.oxfordml.school/"> University of Oxford summer school in machine learning </a> </p>
-
-  <p> <strong> 2020/07 </strong> <br>
-  Gave a workshop on Anomaly detection in Computer Vision at the <a href="https://sfperception2020.blogs.lincoln.ac.uk/"> University of Lincoln </a>  </p>
-
-  <p> <strong> 2020/03 </strong> <br>
-  Started as a Research assistant in Machine learning and robotic perception at the University of Lincoln </p>
-
-  <p> <strong> 2020/01 </strong> <br>
-  Started as a Teaching assistant at King's College London </p>
+  
 </div>
