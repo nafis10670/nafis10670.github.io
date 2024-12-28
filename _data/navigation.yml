@@ -10,7 +10,7 @@ main:
       url: https://scholar.google.com/citations?user=8W-7r3QAAAAJ&hl=en
 
     - title: "CV"
-      url: files/My_CV.pdf
+      url: /files/My_CV.pdf
 
     # - title: "Talks"
     #   url: /talks/
